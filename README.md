@@ -2,8 +2,8 @@
 - 🤔 I'm interested in Data Analytics, Machine Learning, and AI
 - 🌱 I'm currently learning Python, Stata, R, and Tableau
 - ⚡ I'm passionate about child education and policy change
-- 🔭 Reach me at serenity.e.smith@pace.edu
 - 😄 I'm the president of Women in Tech at Pace University
+- 🔭 Reach me at serenity.e.smith@pace.edu
 - 💬 Fun facts: I love sudoku, cats, and watching CoryxKenshin
 
 <!--
