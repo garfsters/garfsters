@@ -57,7 +57,8 @@ python idle logo
 </picture>
 
 - 🔭 Currently working on this page
-- 📫 Reach me at serenity.e.smith@pace.edu
+- 📫 Reach me at garfsters (Linkedin)
+- 📧 Email me at serenity.e.smith@pace.edu
 - 😻 Fun facts: I love sudoku, cats, and watching CoryxKenshin
 
 
