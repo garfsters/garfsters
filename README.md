@@ -6,6 +6,7 @@ I have a huge interest in Data Analytics, Machine Learning, and AI and I'm curre
 Currently Coding Teacher at Penguin Coding School, 🌹 President of Women in Tech at Pace University, Treasurer of INFORMS at Pace University
 
 Passionate ⚡ about child education and policy change and working on economic thesis around it.
+Passionate about analyzing datasets to make an impact in people's lives. 
 
 **Skills:** <br />
 Business Analysis | Statistical Data Analysis | Project Management 
@@ -56,7 +57,6 @@ python idle logo
   <img alt="" src="https://github.com/user-attachments/assets/58e63a7b-48b3-43e8-92a3-78247efae777" width="60">
 </picture>
 
-- 🔭 Currently working on this page
 - 📫 Connect with me on [Linkedin](https://www.linkedin.com/in/garfsters) <--
 - 📧 Email me at serenity.e.smith@pace.edu or serenitysmith921@gmail.com
 - 😻 Fun facts: Outside of tech, I love sudoku, cats, and performing arts.
