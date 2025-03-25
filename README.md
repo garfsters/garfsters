@@ -59,7 +59,7 @@ python idle logo
 - 🔭 Currently working on this page
 - 📫 Connect with me on [Linkedin](https://www.linkedin.com/in/garfsters) <--
 - 📧 Email me at serenity.e.smith@pace.edu or serenitysmith921@gmail.com
-- 😻 Fun facts: I love sudoku, cats, and watching CoryxKenshin 
+- 😻 Fun facts: Outside of tech, I love sudoku, cats, and performing arts.
 
 <!--
 **garfsters/garfsters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
